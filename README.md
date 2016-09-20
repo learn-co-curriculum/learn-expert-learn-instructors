@@ -2,14 +2,15 @@
 
 ## Who are the Learn Instructors?
 
+![learn instructors](http://i.giphy.com/QHE5gWI0QjqF2.gif "Learn Instructors")
+
 There are two teams that help students to succeed with Learn. The Learn Experts are contractors who work part time to staff the "Ask a Question" feature, providing real time support to students.
 
-The Learn Instructors are full time employees with three responsibilities:
+The Learn Instructors are full time employees with two main responsibilities:
 
 1. Owning a section of the curriculum. Doing what it takes to help students to learn and complete their section as quickly as possible.
 
 2. Ensuring the quality of our graduates by conducting live assessments to determine how well they have met the functional requirements of the project, can explain the key principles we've been teaching and can live code working functionality.
-
 
 ### The Learn Instructors:
 
@@ -28,10 +29,4 @@ There are three primary ways Learn Experts interact with the Learn Instructors:
 
 ### Sections:
 
- - Ruby/HTML/CSS - Corinna 
- - Sinatra - Luke
- - Rails - Mendel
- - jQuery - Mendel
- - Angular - Luke
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-learn-instructors'>Learn Expert Learn Instructors </a> on Learn.co and start learning to code for free.</p>
+Check the Learn Expert resources to find out which instructors are in charge of which section: https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md
