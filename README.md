@@ -29,4 +29,4 @@ There are three primary ways Learn Experts interact with the Learn Instructors:
 
 ### Sections:
 
-Check the Learn Expert resources to find out which instructors are in charge of which section: https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md
+Check the Learn Expert [resources](https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md) to find out which instructors are in charge of which section: 
