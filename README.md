@@ -16,7 +16,7 @@ The Learn Instructors are full time employees with two main responsibilities:
 
  - [Corinna](http://learn.co/cjbrock) / [corinna@flatironschool.com](corinna@flatironschool.com) / slack: corinna
  - [Luke](http://learn.co/lukeghenco) / [luke@flatironschool.com](luke@flatironschool.com) / slack: luke
- - [Mendel](http://learn.co/mendelB) / [mendel@flatironschool.com](mendel@flatironschool.com) / slack: mendel
+ - [Cernan](http://learn.co/cernanb) / [cernan@flatironschool.com](cernan@flatironschool.com) / slack: cernan
 
 ## How would a Learn Expert interact with a Learn Instructor?
 
