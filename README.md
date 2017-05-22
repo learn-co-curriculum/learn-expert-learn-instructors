@@ -23,7 +23,7 @@ The Learn Instructors are full time employees with two main responsibilities:
 There are three primary ways Learn Experts interact with the Learn Instructors:
  - If you raise an issue on a lab, you'll now know who to @ mention on the lab (if no one is listed as the owner of that section of curriculum, you can just @ mention Avidor [@aturkewi]).
  - If you see a student that consistently doesn't understand a  concept (they keep asking questions on the same subject and they don't seem to be getting it), you can DM the instructor in charge of that section in slack to let them know that they may have a struggling student.
- - If a student asks for help with an assessment, you should direct them to the instructor who is responsible for the section containing the assessment (not the instructor who administers that assessment, so if it's a Sinatra issue it goes to Luke, not Mendel)
+ - If a student asks for help with an assessment, you should direct them to the instructor who is responsible for the section containing the assessment (not the instructor who administers that assessment, so if it's a Sinatra issue it goes to Cernan, not Luke)
  
 ## Which Learn Instructor is in charge of what?
 
