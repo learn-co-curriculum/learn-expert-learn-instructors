@@ -1,20 +1,18 @@
-# Interface with Section Leads
+# Interface with Learn Instructors
 
-## Who are the Section Leads?
+## Who are the Learn Instructors?
 
-![Section Leads](http://i.giphy.com/QHE5gWI0QjqF2.gif "Section Leads")
+![learn instructors](http://i.giphy.com/QHE5gWI0QjqF2.gif "Learn Instructors")
 
-There are three teams that help students to succeed. The Technical Coaches who staff the "Ask a Question" feature, providing real time support to students.
+There are two teams that help students to succeed with Learn. The Learn Experts are contractors who work part time to staff the "Ask a Question" feature, providing real time support to students.
 
-Portfolio Support Coaches schedule 1:1 with students via the [Portfolio Support](https://theflatironschool.typeform.com/to/UUhrc7) link to help them debug their portfolio projects when they get stuck and can't find a solution.
-
-The Section Leads are full time employees with two main responsibilities:
+The Learn Instructors are full time employees with two main responsibilities:
 
 1. Owning a section of the curriculum. Doing what it takes to help students to learn and complete their section as quickly as possible.
 
 2. Ensuring the quality of our graduates by conducting live assessments to determine how well they have met the functional requirements of the project, can explain the key principles we've been teaching and can live code working functionality.
 
-### The Section Leads:
+### The Learn Instructors:
 
  - [Corinna](http://learn.co/cjbrock) / [corinna@flatironschool.com](corinna@flatironschool.com) / slack: corinna
  - [Luke](http://learn.co/lukeghenco) / [luke@flatironschool.com](luke@flatironschool.com) / slack: luke
@@ -29,8 +27,8 @@ There are three primary ways Technical Coaches interact with the Section Leads:
  - If you see a student that consistently doesn't understand a  concept (they keep asking questions on the same subject and they don't seem to be getting it), you can DM the section lead in charge of that section in slack to let them know that they may have a struggling student.
  - If a student asks for help with an assessment, you should first give them the link for [Portfolio Support](https://theflatironschool.typeform.com/to/UUhrc7). If the student is persistent that they speak to a section lead, you should direct them to the section lead who is responsible for the section containing the assessment (not the section lead who administers that assessment, so if it's a Sinatra issue it goes to Cernan, not Luisa)
  
-## Which Section Lead is in charge of what?
+## Which Learn Instructor is in charge of what?
 
 ### Sections:
 
-Check the Section Lead [resources](https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md) to find out which section lead are in charge of which section: 
+Check the Learn Expert [resources](https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md) to find out which instructors are in charge of which section: 
