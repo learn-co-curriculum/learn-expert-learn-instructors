@@ -32,5 +32,3 @@ There are three primary ways Technical Coaches interact with the Section Leads:
 ### Sections:
 
 Check the Section Lead [resources](https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md) to find out which section lead are in charge of which section: 
-
-small change
