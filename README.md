@@ -16,11 +16,11 @@ The Learn Instructors are full time employees with two main responsibilities:
 
  - [Corinna](http://learn.co/cjbrock) / [corinna@flatironschool.com](corinna@flatironschool.com) / slack: corinna
  - [Luke](http://learn.co/lukeghenco) / [luke@flatironschool.com](luke@flatironschool.com) / slack: luke
- - [Cernan](http://learn.co/cernanb) / [cernan@flatironschool.com](cernan@flatironschool.com) / slack: cernan
+ - [Cernan](http://learn.co/cernanb) / [cernan@flatironschool.com](cernan@flatironschool.com) / slack: cernanb
 
 ## How would a Learn Expert interact with a Learn Instructor?
 
- - If you raise an issue on a lab, you'll now know who to @ mention on the lab (if no one is listed as the owner of that section of curriculum, you can just @ mention Avidor [@aturkewi]).
+ - If you raise an issue on a lab, you'll now know who to @ mention on the lab (if no one is listed as the owner of that section of curriculum, you can just @ mention Ruth [@ruth]).
  - If a student asks for help with an assessment, you should direct them to the instructor who is responsible for the section containing the assessment (not the instructor who administers that assessment, so if it's a Sinatra issue it goes to Cernan, not Luke)
  
 ## Which Learn Instructor is in charge of what?
